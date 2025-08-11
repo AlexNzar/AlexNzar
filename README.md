@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Alejandro Mancio
+# ¡Hola! 👋 
 - 🔹 Estudiante de la Universidad Nacional Rosario Castellanos.  
 <p align="center">
   <a href="https://github.com/AlexNzar/AlexNzar/Banner.png">
