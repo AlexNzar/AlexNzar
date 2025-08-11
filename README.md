@@ -16,7 +16,7 @@ Profesional en Ciencia de Datos con enfoque en la toma de decisiones empresarial
 
 
 🚀 **Proyectos Destacados**  
-- [Revista Digital DAVINA](https://github.com/AlexNzar/Revista-Digital-DAVINA) - Identificar patrones de violencia laboral hacia las mujeres
+- [Revista Digital DAVINA](https://github.com/AlexNzar/Revista-Digital-DAVINA) - Identificar patrones de violencia laboral hacia las mujeres (Python, Pandas, Seaborn, Matplotlib)
 
 
 🛠️ **Tecnologías**  
