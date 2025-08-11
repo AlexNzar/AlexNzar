@@ -1,5 +1,4 @@
 # ¡Hola, un gusto! 👋 
-## 🔹 Soy estudiante de la Universidad Nacional Rosario Castellanos. 🎓 
 <p align="center">
   <a href="https://github.com/AlexNzar/AlexNzar/Banner.png">
     <img src="Banner.png" alt="Banner Portada" width="800"/>
